@@ -1,7 +1,7 @@
 Package: dummyCalc
 Type: Package
 Title: Package Tester
-Version: 0.1.0
+Version: 0.1.1
 Author: Kyle B <your.email@example.com>
 Maintainer: Kyle B <your.email@example.com>
 Description: dummy calc package for playing with building an R package
