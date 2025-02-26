@@ -1,11 +1,16 @@
+#' @export
+#' @name calc_test
 
-library(tidyr)
-library(dplyr)
 
+#' @export
+#' @rdname calc_test
 add <- function(first, second) {
   return (first + second)
 }
 
+#' @export
+#' @rdname calc_test
 subtract <- function(first, second) {
   return (first - second)
 }
+
